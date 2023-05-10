@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjones91/snake.git"
+  },
+  "author": "dij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjones91/snake/issues"
+  },
+  "homepage": "https://github.com/mrjones91/snake#readme",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
